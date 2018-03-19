@@ -2,7 +2,7 @@ class A
 {
 	public void m1() 
 	{
-		System.out.println("In M1");
+		System.out.println("In M1"); //dummy comment
 	}
 }
 class B extends A
