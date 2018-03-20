@@ -2,8 +2,10 @@ class A
 {
 	public void m1() 
 	{
-		System.out.println("In M1"); //dummy comment 1
+		System.out.println("i am great tester");
+		System.out.println("In M1"); //dummy comment 2
 	}
+	
 }
 class B extends A
 {
