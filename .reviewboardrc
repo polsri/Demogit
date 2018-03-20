@@ -1,0 +1,5 @@
+REVIEWBOARD_URL = "http://52.90.91.86:80"
+REPOSITORY = "Demogit"
+REPOSITORY_TYPE = "git"
+BRANCH = "master"
+LAND_DEST_BRANCH = "master"
